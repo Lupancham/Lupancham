@@ -2,14 +2,7 @@
 Info
 - My website: [Lupancham.net](https://lupancham.net)
 - Owner/Developer @ Disc Realms Studios
-- 18 | High School Student
-
-Knowledge
-- Basic HTML
-- Basic JavaScript
-- Learning Java
-- Basic PaperMC plugin knowledge
-- Learning to code Hytale plugins
+- 18 | College Student
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lupancham&show_icons=true&theme=transparent&title_color=5732C5&text_color=6E49DC&icon_color=9472FC&border_radius=25)](https://github.com/lupancham/Lupancham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lupancham&size_weight=1&count_weight=1&theme=transparent&text_color=6E49DC&title_color=5732C5&border_radius=25)
